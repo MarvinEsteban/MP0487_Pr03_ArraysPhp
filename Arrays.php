@@ -112,14 +112,6 @@
 
     }
 
-
-           
-    
-
-    echo "<br>";
-    echo "<br> Ejercicio 9 <br> <br>";
-
-
     ?>
 </body>
 
