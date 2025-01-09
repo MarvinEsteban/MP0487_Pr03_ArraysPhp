@@ -104,10 +104,20 @@
         }
 
     }
-    if($notaMasAlta == $nota){
-            
+    
+    foreach ($people as $nombre => $nota) {
+        if($nota == $notaMasAlta){
+            echo "La nota mas alta es " . $notaMasAlta ." y el mejor alumno es " . $nombre;     
+            }
+
     }
-    echo "La nota mas alta es: " . $notaMasAlta ." y el mejor alumno es: ";
+
+
+           
+    
+
+    echo "<br>";
+    echo "<br> Ejercicio 9 <br> <br>";
 
 
     ?>
