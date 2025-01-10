@@ -43,7 +43,8 @@
 
     var_dump($persona);
 
-    echo "<br> Ejercicio 5 <br> <br>";
+    echo "<br> <br>";
+    echo "Ejercicio 5 <br> <br>";
 
     $letters = "a,b,c,d,e,f";
 
